@@ -1,2 +1,2 @@
 # ComputationalGeometry
-Computational Geometry
+Exercises Solution
